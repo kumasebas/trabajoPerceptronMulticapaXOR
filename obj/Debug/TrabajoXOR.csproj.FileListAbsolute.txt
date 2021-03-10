@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\TrabajoXOR\TrabajoXOR\bin\Debug\TrabajoXOR.exe.config
+C:\Users\sebas\source\repos\TrabajoXOR\TrabajoXOR\bin\Debug\TrabajoXOR.exe
+C:\Users\sebas\source\repos\TrabajoXOR\TrabajoXOR\bin\Debug\TrabajoXOR.pdb
+C:\Users\sebas\source\repos\TrabajoXOR\TrabajoXOR\obj\Debug\TrabajoXOR.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\TrabajoXOR\TrabajoXOR\obj\Debug\TrabajoXOR.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\TrabajoXOR\TrabajoXOR\obj\Debug\TrabajoXOR.exe
+C:\Users\sebas\source\repos\TrabajoXOR\TrabajoXOR\obj\Debug\TrabajoXOR.pdb
